@@ -1,0 +1,17 @@
+{
+    "required": true,
+    "package": "com.one_studios.locator_lodestones.mixin",
+    "compatibilityLevel": "JAVA_21",
+    "mixins": [],
+    "injectors": {
+        "defaultRequire": 1
+    },
+    "overwrites": {
+        "requireAnnotations": true
+    },
+    "client": [
+        "HudMixin",
+        "LocatorBarMixin",
+        "PlayerInventoryMixin"
+    ]
+}
