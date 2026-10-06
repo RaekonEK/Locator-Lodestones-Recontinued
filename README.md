@@ -1,7 +1,7 @@
 # Locator Lodestones: Recontinued
-**support me and download from [Modrinth](https://modrinth.com/mod/locator-lodestones/)**
 ![locator lodestone](https://cdn.modrinth.com/data/cached_images/a54a8981668c595fcad6bd497b763d10d5e18325.png)
 
+**support me and download from [Modrinth](https://modrinth.com/mod/locator-lodestones/)**
 Adds Waypoints to the Player Locator Bar for each Lodestone Compass and Recovery Compass in your inventory.
 
 The mod works entirely client-side, and doesn't need to be installed on the server.
